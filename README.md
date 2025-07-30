@@ -1,5 +1,3 @@
-Here's a comprehensive README.md for your supermarket_billing_system project, suitable for GitHub. It covers essential sections like description, features, setup, usage, and technologies used, making it easy for others to understand and run your project.
-
 Supermarket Billing System
 A modern and intuitive Supermarket Billing System built with Python's Tkinter for the GUI and MySQL for robust data management. This application provides comprehensive functionalities for managing customers, products, and sales transactions, including PDF bill generation and stock alerts.
 
