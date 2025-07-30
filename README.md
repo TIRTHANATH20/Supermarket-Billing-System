@@ -84,3 +84,5 @@ Git: Download Git
 
 2. Clone the Repository
 Open your terminal or command prompt and clone the project:
+git clone https://github.com/TIRTHANATH20/Supermarket-Billing-System.git
+cd supermarket_billing_system
