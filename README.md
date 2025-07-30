@@ -57,5 +57,5 @@ Follow these steps to get the project up and running on your local machine.
 Open your terminal or command prompt and clone the project:
 
 ```bash
-git clone [https://github.com/TIRTHANATH20/Supermarket-Billing-System.git](https://github.com/TIRTHANATH20/Supermarket-Billing-System.git)
+git clone https://github.com/TIRTHANATH20/Supermarket-Billing-System.git
 cd Supermarket-Billing-System
